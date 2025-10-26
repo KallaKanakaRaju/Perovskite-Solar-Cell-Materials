@@ -17,3 +17,5 @@ Prioritizes robust, experimentally testable recipes by incorporating uncertainty
 Key reported results (example)
 
 PCE prediction — R² = 0.9665, RMSE = 1.166, MAE = 0.553 (on held-out test set using the curated descriptor database).
+
+The authors thank A. Sepúlveda for making the dataset "Features from Perovskite Project Database" available via Zenodo (doi:10.5281/zenodo.16809654, Aug. 12, 2025).
